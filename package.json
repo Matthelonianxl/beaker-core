@@ -62,7 +62,7 @@
     "normalize-url": "^3.3.0",
     "once": "^1.4.0",
     "os-locale": "^3.1.0",
-    "parse-dat-url": "^3.0.1",
+    "parse-dat-url": "^3.0.3",
     "pauls-dat-api": "^8.0.4",
     "pify": "^3.0.0",
     "pump": "^3.0.0",
