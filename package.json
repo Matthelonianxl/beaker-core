@@ -59,7 +59,7 @@
     "mkdirp": "^0.5.1",
     "moment": "^2.23.0",
     "ms": "^2.1.1",
-    "normalize-url": "^3.3.0",
+    "normalize-url": "^4.5.1",
     "once": "^1.4.0",
     "os-locale": "^3.1.0",
     "parse-dat-url": "^3.0.1",
