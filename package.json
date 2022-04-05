@@ -57,7 +57,7 @@
     "lodash.throttle": "^4.1.1",
     "mime": "^1.4.0",
     "mkdirp": "^0.5.1",
-    "moment": "^2.23.0",
+    "moment": "^2.29.2",
     "ms": "^2.1.1",
     "normalize-url": "^3.3.0",
     "once": "^1.4.0",
