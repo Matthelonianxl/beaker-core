@@ -61,7 +61,7 @@
     "ms": "^2.1.1",
     "normalize-url": "^3.3.0",
     "once": "^1.4.0",
-    "os-locale": "^3.1.0",
+    "os-locale": "^6.0.0",
     "parse-dat-url": "^3.0.1",
     "pauls-dat-api": "^8.0.4",
     "pify": "^3.0.0",
